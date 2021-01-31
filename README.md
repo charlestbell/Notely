@@ -12,12 +12,16 @@
   - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions)
+- [Screenshots](#screenshots)
 
 ## Live Site
 [View Now](https://immense-meadow-54682.herokuapp.com/)
 
 ## Description
-Note taking web app
+Note taking web app. Deployed to Heroku.
+
+___Motivation___
+A free cross platform note taking app.
 
 ___Technologies Used___
 - Node
@@ -25,8 +29,7 @@ ___Technologies Used___
 - json
 
 
-___Motivation___
-A free cross platform note taking app.
+
 
 ## Installation
 1) Download the zip and unzip. 2) Navigate to the Develop Folder and open a terminal. 3) Type 'npm i' in the terminal and press enter to install dependencies. 4) Type 'npm run start' in  the terminal and press enter to envoke the program. 5) View the app at 'localhost:3000' in your favorite web browse
@@ -34,13 +37,14 @@ A free cross platform note taking app.
 ## Future Development
 - Note Search
 - Better mobile responsiveness
-- 
+- Connect to a database
 
 
 ### Credits
 Developers: C.T. Bell
+
 ### How to contribute
-Email me
+Clone and pull
 
 ### Tests
 No tests provided.
@@ -53,3 +57,8 @@ No tests provided.
 If you have a question about this software, contact the developer at:
 charlestbell@gmail.com
 
+## Screenshots
+Note Page
+![Screenshot](Assets/screenshot1.jpg "Screenshot")
+Welcome Page
+![Screenshot](Assets/screenshot2.jpg "Screenshot")
